@@ -33,7 +33,8 @@ dependencies = [
     "pyopenjtalk",
     "wandb",
     "tensorboard",
-    "grpcio>=1.58.0"
+    "grpcio>=1.58.0",
+    "loguru",
 ]
 
 [build-system]
