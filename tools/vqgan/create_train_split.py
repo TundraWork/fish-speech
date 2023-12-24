@@ -1,8 +1,4 @@
 import math
-<<<<<<< HEAD
-
-=======
->>>>>>> create-train-split-use-ratio
 from pathlib import Path
 from random import Random
 
